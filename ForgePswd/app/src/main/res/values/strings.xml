@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ForgePswd</string>
+    <string name="base_password_label">Base Password</string>
+    <string name="master_key_label">Master Key</string>
+    <string name="generate_password_button">Generate Password</string>
+    <string name="copy_password_button">Copy Password</string>
+    <string name="generated_password_label">Generated Password</string>
+    <string name="password_copied_message">Password copied to clipboard</string>
+    <string name="enter_both_fields_message">Please enter both base password and master key</string>
+    <string name="app_description">Secure Deterministic Password Generator</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_key">Show key</string>
+    <string name="hide_key">Hide key</string>
 </resources>
